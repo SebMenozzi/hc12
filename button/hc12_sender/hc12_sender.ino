@@ -1,5 +1,4 @@
-//HC-12 Toggle button Send
-//Autor Tom Heylen tomtomheylen.com
+// HC-12 Toggle button Send
 
 #include <Wire.h>
 #include "Nunchuk.h"
