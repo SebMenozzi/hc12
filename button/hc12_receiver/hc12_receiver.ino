@@ -1,6 +1,4 @@
-//HC-12 Toggle button Receive
-//Autor Tom Heylen tomtomheylen.com
-
+// HC-12 Toggle button Receive
 
 #include <SoftwareSerial.h>
 #include <Servo.h> 
